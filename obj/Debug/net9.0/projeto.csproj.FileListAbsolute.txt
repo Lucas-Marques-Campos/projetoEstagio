@@ -1,0 +1,14 @@
+C:\Users\PICHAU\Desktop\projeto\obj\Debug\net9.0\projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PICHAU\Desktop\projeto\obj\Debug\net9.0\projeto.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Desktop\projeto\obj\Debug\net9.0\projeto.AssemblyInfo.cs
+C:\Users\PICHAU\Desktop\projeto\obj\Debug\net9.0\projeto.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Desktop\projeto\bin\Debug\net9.0\projeto.exe
+C:\Users\PICHAU\Desktop\projeto\bin\Debug\net9.0\projeto.deps.json
+C:\Users\PICHAU\Desktop\projeto\bin\Debug\net9.0\projeto.runtimeconfig.json
+C:\Users\PICHAU\Desktop\projeto\bin\Debug\net9.0\projeto.dll
+C:\Users\PICHAU\Desktop\projeto\bin\Debug\net9.0\projeto.pdb
+C:\Users\PICHAU\Desktop\projeto\obj\Debug\net9.0\projeto.dll
+C:\Users\PICHAU\Desktop\projeto\obj\Debug\net9.0\refint\projeto.dll
+C:\Users\PICHAU\Desktop\projeto\obj\Debug\net9.0\projeto.pdb
+C:\Users\PICHAU\Desktop\projeto\obj\Debug\net9.0\projeto.genruntimeconfig.cache
+C:\Users\PICHAU\Desktop\projeto\obj\Debug\net9.0\ref\projeto.dll
