@@ -1,7 +1,9 @@
-using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
 using System.Linq;
-namespace projeto.Controllers
+using System;
+using Microsoft.AspNetCore.Mvc;
+
+namespace projeto
 {
     [ApiController]
     [Route("api/[controller]")]
@@ -45,5 +47,6 @@ namespace projeto.Controllers
             _produtos.Remove(produto);
             return NoContent();
         }
+        public static Produto BuscarProdutoPorIdEstatico(Guid id) => _produtos.FirstOrDefault(p => p.Id == id);
     }
 }
