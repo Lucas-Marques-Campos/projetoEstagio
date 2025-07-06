@@ -26,7 +26,7 @@ namespace projeto
         }
 
         public void ReduzirEstoque(int quantidade){
-            if (this.Estoque < quantidade){
+            if (this.Estoque <= quantidade){
                 throw new InvalidOperationException("Estoque insuficiente para realizar a operação.");
             }
             this.Estoque -= quantidade;
