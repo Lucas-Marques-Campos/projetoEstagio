@@ -63,10 +63,10 @@ namespace projeto
                 item.Produto.ReduzirEstoque(item.Quantidade);
             }
 
-            // "Salva" o pedido na nossa lista
+          
             _pedidos.Add(novoPedido);
 
-            // Retorna a resposta de sucesso
+           
             return CreatedAtAction(nameof(ListarPedidos), new { id = novoPedido.Id }, novoPedido);
         }
     }
