@@ -22,7 +22,7 @@ namespace projeto
             {
                 throw new ArgumentNullException(nameof(produto), "O produto não pode ser nulo.");
             }
-            if (quantidade > produto.Estoque)
+            if (quantidade >= produto.Estoque)
             {
                 throw new ArgumentException("A quantidade solicitada excede o estoque disponível.", nameof(quantidade));
             }
